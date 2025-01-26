@@ -180,7 +180,7 @@
       "component": "text-area",
       "name": "text",
       "value": "",
-      "label": "Text",
+      "label": "Custom Text",
       "valueType": "string"
     }
   ]
